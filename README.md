@@ -1,2 +1,3 @@
-# disagreeing.github.io
+# TheExploration.github.io
+
 Google play privacy policy
